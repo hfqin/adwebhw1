@@ -1,0 +1,15 @@
+/* app css stylesheet */
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.body-wrapper {
+  background: #f0f0f0;
+  width: 960px;
+  min-height:1000px;
+  margin: auto;
+
+}
+.page-title{
+  height:30px;
+}
